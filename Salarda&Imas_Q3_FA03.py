@@ -18,3 +18,4 @@ for i in range(len(phone_mins)):
         m1 = rm
 
 print(f"Overall Maximum Usage in Dataset: {m1} mins")
+
